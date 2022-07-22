@@ -186,7 +186,7 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 	/***********/
 	#portfolio> section {padding:0  10pt;}
 	
-	#ieeum	{ transform:translateY(0); opacity:1;}
+	#leeum	{ transform:translateY(0); opacity:1;}
 	#burts> div:first-child {transform:translateX(0);}
 	#burts> div:last-child	{transform:translateX(0);}
 	#tae> div:first-child {transform:scale(1); opacity:1;}
