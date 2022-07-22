@@ -128,6 +128,11 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #tae1 div:first-child {flex:1;}
 #tae1 div:last-child {flex:0.9;} 
 
+#burts2 div:first-child {flex:0.8;}
+#burts2 div:last-child {flex:1;}
+
+#burts2 a {margin-right:15px;}
+
 /*Event and Detail*/
 #event {max-width:900pt; margin:auto;}
 #event> div {display:flex; flex-wrap:wrap; justify-content:space-evenly; }
