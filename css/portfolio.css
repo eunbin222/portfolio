@@ -199,6 +199,8 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 	#burts2> div:first-child {transform:translateX(0);}
 	#burts2> div:last-child	{transform:translateX(0);}
 	
+	#burts2 a { font-size:0.85rem; }
+	
 	#portfolio  h3   {font-size:1.8rem;}
 	#portfolio  img  {margin-bottom:30pt;}
 
