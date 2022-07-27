@@ -90,6 +90,9 @@
 			if( $(window).scrollTop()>6100 ){
 				$("#portfolio> section").eq(5).addClass("act");
 			}
+			if( $(window).scrollTop()>7000 ){
+				$("#portfolio> section").eq(6).addClass("act");
+			}
 		});		
 	}
 	
