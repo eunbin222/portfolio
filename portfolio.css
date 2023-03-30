@@ -16,15 +16,15 @@ nav a {margin-left:20pt; color:white; text-shadow:0 0 10px black;}
 nav a:hover, a.active {color:#00aeff;}
 
 /*헤더*/
-/*#top {height:100vh; background:url("../images/bg.jpg") no-repeat fixed center top / cover;}
-#typing{padding:40vh 1px 0 1px; color:white; text-align:center; line-height:160%; font-size:2.5rem; height:60vh; text-shadow:0 1px 10px black; font-family: 'Libre Baskerville', serif; font-weight:bold;}
-#scroll {max-width:100px; margin:auto; margin-top:30vh; text-align:center;}
-#top i {font-size:2.5rem; color:white; display:block; animation:down 1s infinite both;}
-@keyframes down{
+{height:100vh; background:url("../images/bg.jpg") no-repeat fixed center top / cover;}
+{padding:40vh 1px 0 1px; color:white; text-align:center; line-height:160%; font-size:2.5rem; height:60vh; text-shadow:0 1px 10px black; font-family: 'Libre Baskerville', serif; font-weight:bold;}
+{max-width:100px; margin:auto; margin-top:30vh; text-align:center;}
+ {font-size:2.5rem; color:white; display:block; animation:down 1s infinite both;}
+{
 	from 	{transform:translateY(-10pt); opacity:1;}
 	to 		{transform:translateY(0); opacity:0;}
 }
-#top a {color:white;}*/
+{color:white;}
 
 
 h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
