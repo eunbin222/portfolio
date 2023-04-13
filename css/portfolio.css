@@ -146,7 +146,10 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #burts2 a {margin-right:15px;}
 
 #tae2 div:first-child {flex:1;}
-#tae2 div:last-child {flex:0.9;} 
+#tae2 div:last-child {flex:0.9;}
+
+#tae3 div:first-child {flex:0.8;}
+#tae3 div:last-child {flex:1;} 
 
 /*Event and Detail*/
 #event {max-width:900pt; margin:auto;}
