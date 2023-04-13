@@ -101,6 +101,12 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #tae2.act> div:first-child {transform:scale(1); opacity:1;}
 #tae2.act> div:last-child	{transform:scale(1); opacity:1;}
 
+#tae3> div:first-child {transform:translateX(-450pt);transition:3s;}
+#tae3> div:last-child	{transform:translateX(600pt); transition:3s;}
+
+#tae3.act> div:first-child {transform:translateX(0);}
+#tae3.act> div:last-child	{transform:translateX(0);}
+
 
 #portfolio> section:not(#leeum) {min-height:100vh;padding-top:28vh;  }
 #portfolio  div {line-height:270%;}
