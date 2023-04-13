@@ -77,11 +77,11 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #tae.act> div:first-child {transform:scale(1); opacity:1;}
 #tae.act> div:last-child	{transform:scale(1); opacity:1;}
 
-#burts1> div:first-child {transform:translateX(-450pt);transition:3s;}
-#burts1> div:last-child	{transform:translateX(600pt); transition:3s;}
+#ehc2> div:first-child {transform:translateX(-450pt);transition:3s;}
+#ehc2> div:last-child	{transform:translateX(600pt); transition:3s;}
 
-#burts1.act> div:first-child {transform:translateX(0);}
-#burts1.act> div:last-child	{transform:translateX(0);}
+#ehc2.act> div:first-child {transform:translateX(0);}
+#ehc2.act> div:last-child	{transform:translateX(0);}
 
 #tae1> div:first-child {transform:scale(0.5); opacity:0; transition:3s;}
 #tae1> div:last-child	{transform:scale(0.5); opacity:0; transition:3s;}
@@ -107,11 +107,6 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #ehc1.act> div:first-child {transform:translateX(0);}
 #ehc1.act> div:last-child	{transform:translateX(0);}
 
-#ehc2> div:first-child {transform:scale(0.5); opacity:0; transition:3s;}
-#ehc2> div:last-child	{transform:scale(0.5); opacity:0; transition:3s;}
-
-#ehc2.act> div:first-child {transform:scale(1); opacity:1;}
-#ehc2.act> div:last-child	{transform:scale(1); opacity:1;}
 
 
 
@@ -141,8 +136,8 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #leeum> div:first-child {flex:1.3;}
 #leeum> div:last-child {flex:1;}
 
-#burts1 div:first-child {flex:0.8;}
-#burts1 div:last-child {flex:1;}
+#ehc2 div:first-child {flex:0.8;}
+#ehc2 div:last-child {flex:1;}
 
 #tae1 div:first-child {flex:1;}
 #tae1 div:last-child {flex:0.9;} 
@@ -155,8 +150,6 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #ehc1 div:first-child {flex:0.8;}
 #ehc1 div:last-child {flex:1;}
 
-#ehc2 div:first-child {flex:1;}
-#ehc2 div:last-child {flex:0.9;} 
 
 
 
@@ -219,8 +212,8 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 	#tae> div:first-child {transform:scale(1); opacity:1;}
 	#tae> div:last-child	{transform:scale(1); opacity:1;}
 	
-	#burts1> div:first-child {transform:translateX(0);}
-	#burts1> div:last-child	{transform:translateX(0);}
+	#ehc2> div:first-child {transform:translateX(0);}
+	#ehc2> div:last-child	{transform:translateX(0);}
 	#tae1> div:first-child {transform:scale(1); opacity:1;}
 	#tae1> div:last-child	{transform:scale(1); opacity:1;}
 	#burts2> div:first-child {transform:translateX(0);}
