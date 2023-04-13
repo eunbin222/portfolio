@@ -40,7 +40,7 @@
 	});
 	
 	//상단 한글자씩 나오는 기능 (타자치는 효과)
-	const typing = "Shining, shimmering, splendid \n I'm designer LeeEunBin."
+	const typing = "Hi ~ \n I'm Web designer LeeEunBin."
 	console.log(typing);
 	//$("h1").html( typing[4]  );  "요"
 	let i = 0; 
@@ -92,6 +92,12 @@
 			}
 			if( $(window).scrollTop()>7000 ){
 				$("#portfolio> section").eq(6).addClass("act");
+			}
+			if( $(window).scrollTop()>7900 ){
+				$("#portfolio> section").eq(7).addClass("act");
+			}
+			if( $(window).scrollTop()>8800 ){
+				$("#portfolio> section").eq(8).addClass("act");
 			}
 		});		
 	}
