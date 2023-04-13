@@ -67,6 +67,12 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #ehc3.act> div:first-child {transform:translateX(0);}
 #ehc3.act> div:last-child	{transform:translateX(0);}
 
+#ehc4> div:first-child {transform:translateX(-450pt);transition:3s;}
+#ehc4> div:last-child	{transform:translateX(600pt); transition:3s;}
+
+#ehc4.act> div:first-child {transform:translateX(0);}
+#ehc4.act> div:last-child	{transform:translateX(0);}
+
 #leeum {padding:10vh 0 18vh 0; }
 
 #leeum	{transform:translateY(100px); opacity:0; transition:1s;}
@@ -135,6 +141,9 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 
 #ehc3 div:first-child {flex:0.8;}
 #ehc3 div:last-child {flex:1;}
+
+#ehc4 div:first-child {flex:0.8;}
+#ehc4 div:last-child {flex:1;}
 
 #burts div:first-child {flex:0.8;}
 #burts div:last-child {flex:1;}
