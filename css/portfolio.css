@@ -101,11 +101,18 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #tae2.act> div:first-child {transform:scale(1); opacity:1;}
 #tae2.act> div:last-child	{transform:scale(1); opacity:1;}
 
-#tae3> div:first-child {transform:translateX(-450pt);transition:3s;}
-#tae3> div:last-child	{transform:translateX(600pt); transition:3s;}
+#ehc1> div:first-child {transform:translateX(-450pt);transition:3s;}
+#ehc1> div:last-child	{transform:translateX(600pt); transition:3s;}
 
-#tae3.act> div:first-child {transform:translateX(0);}
-#tae3.act> div:last-child	{transform:translateX(0);}
+#ehc1.act> div:first-child {transform:translateX(0);}
+#ehc1.act> div:last-child	{transform:translateX(0);}
+
+#ehc2> div:first-child {transform:scale(0.5); opacity:0; transition:3s;}
+#ehc2> div:last-child	{transform:scale(0.5); opacity:0; transition:3s;}
+
+#ehc2.act> div:first-child {transform:scale(1); opacity:1;}
+#ehc2.act> div:last-child	{transform:scale(1); opacity:1;}
+
 
 
 #portfolio> section:not(#leeum) {min-height:100vh;padding-top:28vh;  }
@@ -145,11 +152,13 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 
 #burts2 a {margin-right:15px;}
 
-#tae2 div:first-child {flex:1;}
-#tae2 div:last-child {flex:0.9;}
+#ehc1 div:first-child {flex:0.8;}
+#ehc1 div:last-child {flex:1;}
 
-#tae3 div:first-child {flex:0.8;}
-#tae3 div:last-child {flex:1;} 
+#ehc2 div:first-child {flex:1;}
+#ehc2 div:last-child {flex:0.9;} 
+
+
 
 /*Event and Detail*/
 #event {max-width:900pt; margin:auto;}
