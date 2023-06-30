@@ -126,6 +126,12 @@ h2 {text-align:center; font-size:3rem; margin-bottom:60pt;}
 #ehc5.act> div:first-child {transform:translateX(0);}
 #ehc5.act> div:last-child	{transform:translateX(0);}
 
+#ehc6> div:first-child {transform:translateX(-450pt);transition:3s;}
+#ehc6> div:last-child	{transform:translateX(600pt); transition:3s;}
+
+#ehc6.act> div:first-child {transform:translateX(0);}
+#ehc6.act> div:last-child	{transform:translateX(0);}
+
 
 
 
