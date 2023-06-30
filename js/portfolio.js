@@ -105,6 +105,9 @@
 			if( $(window).scrollTop()>10600 ){
 				$("#portfolio> section").eq(10).addClass("act");
 			}
+			if( $(window).scrollTop()>11500 ){
+				$("#portfolio> section").eq(11).addClass("act");
+			}
 		});		
 	}
 	
